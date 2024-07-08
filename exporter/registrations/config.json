@@ -1,0 +1,5 @@
+{
+    "aggregator_url": "http://10.10.5.225:9101/api/post",
+    "timeout_minutes": 60,
+    "ip_address": "10.10.5.115"
+}
